@@ -1,6 +1,5 @@
 ## Live Demo
-
-(Add your link here after uploading)
+(https://phursang642.github.io/habsida-modal-web-core-6.7/)
 
 ## Features
 Fixed modal overlay (always visible)
